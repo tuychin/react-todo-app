@@ -1,6 +1,1 @@
-Todo application with React framework.
-
-Additional features of the application:
--Filters
--Search
-
+This application reveals the basic capabilities of the React framework.
